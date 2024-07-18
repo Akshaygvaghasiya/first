@@ -10,7 +10,8 @@ function App() {
    <Cours></Cours>
    {/* <Time></Time> 18-07-24 */}
 
-   <Timefun></Timefun>
+   {/* <Timefun></Timefun> */}
+   {/* 19-07-24 Course */}
    </>
   );
 }
