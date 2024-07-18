@@ -7,10 +7,10 @@ import Timefun from './Container/Class/Function/Timefun';
 function App() {
   return (
    <>
-   <Cours></Cours>
+   {/* <Cours></Cours> */}
    {/* <Time></Time> 18-07-24 */}
 
-   <Timefun></Timefun>
+   {/* <Timefun></Timefun> */}
    </>
   );
 }
